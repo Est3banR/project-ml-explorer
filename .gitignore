@@ -1,0 +1,44 @@
+# ============================
+#  ENTORNOS Y CACHE DE PYTHON
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ============================
+#  ENTORNOS VIRTUALES
+# ============================
+.venv/
+venv/
+
+# ============================
+#  NOTEBOOKS Y TEMPORALES
+# ============================
+.ipynb_checkpoints/
+*.log
+
+# ============================
+#  SISTEMA / EDITOR
+# ============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ============================
+#  DATOS Y MODELOS
+# ============================
+*.csv
+*.joblib
+*.pickle
+*.pkl
+datasets/
+serialized_models/
+
+# ============================
+#  ARCHIVOS DE CONFIGURACIÓN
+# ============================
+.env
+*.bak
+*.tmp
