@@ -33,8 +33,6 @@ Thumbs.db
 *.joblib
 *.pickle
 *.pkl
-datasets/
-serialized_models/
 
 # ============================
 #  ARCHIVOS DE CONFIGURACIÓN
